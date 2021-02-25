@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-logo: [/imgs/logo.png]
+logo: ![GitHub Logo](/imgs/logo.png)
