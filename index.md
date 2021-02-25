@@ -11,7 +11,7 @@ _**Dados do projeto de pesquisa**_
 **Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
 
 **Discentes:**  
-- Rodrigo xxxx   
+- Rodrigo F. Silva   
 - José Alfredo Vieira  
 - Luiz R. Niz
 
