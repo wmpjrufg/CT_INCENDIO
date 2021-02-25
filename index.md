@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Seja bem vindo à plataforma de ensino de engenharia **Coretec Tools _Incêndio_**
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/CT_INCENDIO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="justify">Essa ferramenta temc omo objetivo o cálculo de estruturas submetidas à situação de incêncio.</p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_**Dados do projeto de pesquisa**_  
 
-### Markdown
+**Nome:** Desenvolvimento de uma plataforma multidisciplinar de trabalho voltada a engenharia (**PI02801-2018**)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Início do projeto:** 2018  
 
-```markdown
-Syntax highlighted code block
+**Coordenação:** [Prof. Dr. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
 
-# Header 1
-## Header 2
-### Header 3
+**Discentes:**  
+- Rodrigo xxxx   
+- José Alfredo Vieira  
+- Luiz R. Niz
 
-- Bulleted
-- List
+**Colaboração:**    
+- [Prof. MSc. Ana Larissa Dal Piva Argenta](http://lattes.cnpq.br/6229543233686139)
+- [Walter Albergaria Junior](http://lattes.cnpq.br/9428417303686292)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/CT_INCENDIO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [1.0 PROJETO DE PEÇAS SOB SITUAÇÃO DE INCÊNCIO](https://wmpjrufg.github.io/CT_INCENDIO/CAP_10000.html)
+### [2.0 EXEMPLO DE PROJETO D EVIGAS](https://wmpjrufg.github.io/META_PLATAFORMA/CAP_20000.html)
